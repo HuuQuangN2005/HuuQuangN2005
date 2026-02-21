@@ -1,9 +1,55 @@
-# Hey There, I'm Huu Quang! 🤟
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/Wave_Love_GIF_by_Ocean_Park.gif">
+---
+<div>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=7fb5ff">
+	</a>
 </div>
 
-</br>
+---
 
-# About Me
+![HCMCOU](https://img.shields.io/badge/Welcome-blue) ![](https://awesome.re/badge.svg) 
 
+
+	
+###  Hi, I'm κΗα
+	
+🐧 Passionate about Linux and AI <br>
+🫩 Reading manga 20 minutes before bed was 4 hours best in my daily life <br>
+<div align="center">
+
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
+
+
+> *Albert Einstein:  'It's not that I'm so smart, it's just that I stay with problems longer.'*
+
+<br>
+
+
+
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+---
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:khaquachtrong74@gmail.com" target="_blank">
+<img src="./assets/gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/kha-qu%C3%A1ch-tr%E1%BB%8Dng-911905339/" target="_blank">
+<img src="./assets/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
+<!--Footer--> 
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
