@@ -1,30 +1,7 @@
----
 # Hi There, I'm Huu Quang!
 ---
-
-<div>
-	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=7fb5ff">
-	</a>
-</div>
-
----
-
-![HCMCOU](https://img.shields.io/badge/Welcome-blue) ![](https://awesome.re/badge.svg) 
-
-
-	
-###  Hi, I'm κΗα
-	
-🐧 Passionate about Linux and AI <br>
-🫩 Reading manga 20 minutes before bed was 4 hours best in my daily life <br>
-<div align="center">
-
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
-
+![AI Enthusiast](https://img.shields.io/badge/Lover-AI%20Enthusiast-bot?style=for-the-badge&logo=openai&logoColor=white&color=black)
+![Location](https://img.shields.io/badge/Location-TPHCM%2C%20VietNam-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 > *Albert Einstein:  'It's not that I'm so smart, it's just that I stay with problems longer.'*
 
