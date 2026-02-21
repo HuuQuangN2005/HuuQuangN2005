@@ -1,11 +1,18 @@
-# Hi There, I'm Huu Quang!
+### Hi there, I'm Huu Quang! 👻
+
+![AI Enthusiast](https://img.shields.io/badge/AI_Enthusiast-Robot?style=for-the-badge&logo=openai&logoColor=white&color=00A67E)
+![Education](https://img.shields.io/badge/Status-Undergraduate-f39c12?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-HCMC%2C_Vietnam-ea4335?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 ---
-![AI Enthusiast](https://img.shields.io/badge/Lover-AI%20Enthusiast-bot?style=for-the-badge&logo=openai&logoColor=white&color=black)
-![Location](https://img.shields.io/badge/Location-TPHCM%2C%20VietNam-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-> *Albert Einstein:  'It's not that I'm so smart, it's just that I stay with problems longer.'*
+### 💫 About Me
+- **AI Enthusiast**: Passionate about Machine Learning, Neural Networks, and the future of Generative AI.
+- **Current Status**: Currently an **Undergraduate Student** (Still grinding for that degree! 📚).
+- **Based in**: Ho Chi Minh City, Vietnam.
+- **Learning**: Constantly exploring new AI frameworks and building cool projects.
 
-<br>
+---
 
 
 
